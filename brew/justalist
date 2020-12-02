@@ -1,0 +1,14 @@
+gdbm
+gettext
+git
+libevent
+ncurses
+openssl@1.1
+pcre2
+pkg-config
+python
+readline
+sqlite
+tmux
+utf8proc
+xz

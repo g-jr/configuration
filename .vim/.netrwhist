@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/gjr/unifesptmp/clean-architecture/unifesp-clean-architecture'
+let g:netrw_dirhist_7='/Users/gjr/.vim'
+let g:netrw_dirhist_6='/Users/gjr/MiniProjects/cpp/contest'
+let g:netrw_dirhist_5='/Users/gjr/MiniProjects/site/newsite/_site/jekyll'
+let g:netrw_dirhist_4='/Users/gjr/Projects/test/pyth'
+let g:netrw_dirhist_3='/Volumes/gjrextern/Projects/gitclones/checkers'
+let g:netrw_dirhist_2='/Users/gjr/.config'
+let g:netrw_dirhist_1='/Users/gjr'
+let g:netrw_dirhist_0='/Users/gjr/.vim'
+let g:netrw_dirhist_9='/Users/gjr/.vim/autoload'
