@@ -13,7 +13,6 @@ set autoindent
 set ignorecase
 set smartcase
 set backspace=2
-set relativenumber
 set splitbelow
 set splitright
 let $CXXFLAGS="-o -Wall -std=c++17"
@@ -50,3 +49,4 @@ hi User4 term=inverse,bold cterm=inverse,bold ctermfg=red
 hi User3 term=inverse,bold cterm=inverse,bold ctermfg=blue
 
 map <Leader>/ :noh<CR>
+set tags=tags
